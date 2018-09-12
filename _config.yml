@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/"
-url: "도메인주소(예 : http://githublog.tk)"
+baseurl: ""
+url: "http://githublog.tk"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
