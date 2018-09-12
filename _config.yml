@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: "/"
+url: "도메인주소(예 : http://githublog.tk)"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -46,7 +46,7 @@ theme_settings:
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: true # Enable if using math marku
   search: false # Enable the search feature
 
   # Localization strings
